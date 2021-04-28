@@ -1,0 +1,12 @@
+html {
+    text-align: center;
+    background-color: black;
+}
+
+.movie_head{
+padding: 6px 22px;
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    display: inline-block;
+    font-size: 25;} 
